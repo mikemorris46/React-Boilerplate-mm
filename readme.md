@@ -1,4 +1,4 @@
-React Timer Application
+React Boilerplate
 
-This is my copy of section 8 from the Complete React Web Application 
-Developers course.
+This is the React boilerplate used for projects, starting at Section 9, from
+the Complete React Web Application Developers course.
